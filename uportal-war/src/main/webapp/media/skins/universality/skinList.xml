@@ -28,5 +28,12 @@
             SSP Platform
         </skin-description>
     </skin>
+    <skin>
+        <skin-key>oncourse</skin-key>
+        <skin-name>oncourse</skin-name>
+        <skin-description>
+            On Course Education Platform
+    </skin-description>
+    </skin>
 </skins>
 

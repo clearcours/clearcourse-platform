@@ -872,6 +872,7 @@
     </div>-->   
     
     <!-- Copyright -->
+    <!--
     <script type="text/javascript">
 		 up.jQuery(document).ready(function() {
                 var platformBuildDate = <xsl:value-of select="$BUILDDATE"/>;
@@ -939,6 +940,11 @@
          <p>Student Success Plan   |   Copyright 2014, Apereo Foundation   |   All rights reserved.</p>
          <div style="cursor: pointer" id="InfoToggle"> </div>
     </div>
+    -->
+    <div class="copyright">
+         <p>Implemented by <a href="http://www.oncourseeducation.com">Oncourse Education</a></p>
+    </div>
+        
 
   </xsl:template>
   <!-- ============================================ -->
